@@ -1,7 +1,2 @@
-html compiler
-install :
-
-
-sudo apt-get install fpc
-
+https://en.wikipedia.org/wiki/Parallax
 
