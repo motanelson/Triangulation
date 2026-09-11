@@ -103,7 +103,7 @@ namespace pointer
                 Pen c = new Pen(Color.FromArgb(255, 255, 255));
                 ee.Clear(Color.FromArgb(255, 255, 255));
                 Point p= new Point(e.X-32,e.Y-32);
-                ee.DrawImage((Image) pictureBox2.Image,p);
+                ee.DrawImage( pictureBox2.Image,p);
                 //ee.DrawLine(a, e.X, e.Y - 25, e.X, e.Y + 25);
                 //ee.DrawLine(a, e.X - 25, e.Y, e.X + 25, e.Y);
                 a.Dispose();
